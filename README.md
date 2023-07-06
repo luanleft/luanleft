@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=18DC00&width=435&lines=+Ol%C3%A1!+Eu+sou+o+Luan%2C+seja+bem-vindo.;-+%F0%9F%94%AD+Trabalhando+com+Front-End;-+%F0%9F%8C%B1+Estudando+JavaScript)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=18DC00&width=435&lines=+Ol%C3%A1!+Eu+sou+o+Luan%2C+seja+bem-vindo.;-+%F0%9F%94%AD+Sou+programador+Front-End;-+%F0%9F%8C%B1+Estudando+JavaScript)](https://git.io/typing-svg)
 
   ##
 
